@@ -19,6 +19,9 @@ dist-ssr
 .env
 .env.local
 
+# Ignore arquivos expo
+.expo
+
 # Ignore arquivos de configuração de SASS
 .sass-cache
 
