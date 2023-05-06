@@ -5,7 +5,7 @@ import { styles } from './styles';
 export function Home() {
   return (
     <View style={styles.container}>
-      <Text style={styles.titulo}> Turmas </Text>
+      <Text style={styles.titulo}> App Turmas </Text>
     </View>
   );
 }
